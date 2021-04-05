@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Lotusninja400
+- 👀 I’m interested in ...coding games.
+- 🌱 I’m currently learning ... how to code.
+- 💞️ I’m looking to collaborate on ...making my first game.
+- 📫 How to reach me ...try.
+
+
